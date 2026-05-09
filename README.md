@@ -6,12 +6,17 @@ Triggers on phrases like "build a skill", "create a skill", "review this skill",
 
 ## Install
 
-In Claude Code:
+### Claude Code (CLI)
 
 ```
 /plugin marketplace add btcguide-dev/building-skills
 /plugin install building-skills@building-skills
 ```
+
+### Claude Desktop / Cowork
+
+1. Download `building-skills.zip` from the [latest release](https://github.com/btcguide-dev/building-skills/releases/latest).
+2. In Claude, go to **Customize → Skills → Add skill** and upload the zip.
 
 ## Recommended: disable the default skill-creator
 
