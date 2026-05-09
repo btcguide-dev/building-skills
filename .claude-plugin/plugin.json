@@ -1,0 +1,16 @@
+{
+  "name": "building-skills",
+  "version": "1.0.0",
+  "description": "The definitive playbook for building, reviewing, and improving Claude Code skills. Use when creating, reviewing, updating, or auditing a skill.",
+  "author": {
+    "name": "Michael Howe"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "skill-builder",
+    "agent-skills",
+    "playbook"
+  ]
+}

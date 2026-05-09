@@ -1,0 +1,14 @@
+{
+  "name": "building-skills",
+  "owner": {
+    "name": "Michael Howe"
+  },
+  "plugins": [
+    {
+      "name": "building-skills",
+      "source": "./",
+      "description": "The definitive playbook for building, reviewing, and improving Claude Code skills.",
+      "version": "1.0.0"
+    }
+  ]
+}
