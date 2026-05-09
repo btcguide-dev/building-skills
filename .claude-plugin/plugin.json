@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "The definitive playbook for building, reviewing, and improving Claude Code skills. Use when creating, reviewing, updating, or auditing a skill.",
   "author": {
-    "name": "Michael Howe"
+    "name": "Michael Howe",
+    "url": "https://github.com/btcguide-dev"
   },
+  "repository": "https://github.com/btcguide-dev/building-skills",
   "license": "MIT",
   "keywords": [
     "claude-code",

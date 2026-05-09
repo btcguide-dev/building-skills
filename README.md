@@ -9,11 +9,9 @@ Triggers on phrases like "build a skill", "create a skill", "review this skill",
 In Claude Code:
 
 ```
-/plugin marketplace add michaelhowe-investing/building-skills
+/plugin marketplace add btcguide-dev/building-skills
 /plugin install building-skills@building-skills
 ```
-
-(Replace `michaelhowe-investing` with the actual GitHub owner once published.)
 
 ## Recommended: disable the default skill-creator
 
@@ -35,7 +33,7 @@ The two skills have different names so they coexist, but disabling the default r
 ## Manual install (no marketplace)
 
 ```bash
-git clone https://github.com/<owner>/building-skills ~/.claude/skills/_repo
+git clone https://github.com/btcguide-dev/building-skills ~/.claude/skills/_repo
 ln -s ~/.claude/skills/_repo/skills/building-skills ~/.claude/skills/building-skills
 ```
 
